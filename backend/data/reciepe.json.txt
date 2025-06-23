@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tomato Fried Rice",
+    "ingredients": ["rice", "tomato", "onion", "salt", "oil"],
+    "steps": "Cook rice. Fry onion and tomato. Mix everything.",
+    "time": "20 mins",
+    "diet": "vegetarian"
+  },
+  {
+    "name": "Egg Sandwich",
+    "ingredients": ["bread", "egg", "salt", "butter"],
+    "steps": "Boil eggs. Toast bread. Assemble sandwich.",
+    "time": "10 mins",
+    "diet": "non-vegetarian"
+  },
+  {
+    "name": "Vegan Salad",
+    "ingredients": ["lettuce", "tomato", "cucumber", "olive oil"],
+    "steps": "Mix all ingredients and serve fresh.",
+    "time": "10 mins",
+    "diet": "vegan"
+  }
+]
